@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "http_server",
+  "broker_server",
+  "axum_web_server"
+]
