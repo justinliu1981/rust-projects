@@ -2,5 +2,7 @@
 members = [
   "http_server",
   "broker_server",
-  "axum_web_server"
+  "axum_web_server",
+  "async_examples",
+  "timer_future"
 ]
